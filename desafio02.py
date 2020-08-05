@@ -1,0 +1,11 @@
+nome = input ('Qual o seu nome?')
+print ('Olá', nome, '!', 'Prazer em te conhecer!')
+dia = input ('Em dia você nasceu?')
+print ('ok', dia, '.')
+mes = input ('Então... qual foi o seu mês de nascimento?')
+print ('Que beleza!', mes, ',esse mês é incrível!')
+ano = input ('Pra fechar, me diga em que ano você nasceu?')
+print ('Que maravilha! Então, você é de', dia,'de', mes, 'de', ano)
+correto = input ('correto?')
+print (nome,',''foi muito bom saber um pouquinho sobre você!', 'Espero te conhecer mais em breve!')
+
